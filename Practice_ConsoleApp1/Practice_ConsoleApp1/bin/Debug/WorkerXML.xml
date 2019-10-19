@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workers>
+  <Worker idCode="1" Name=" Ivanov I.I." Education=" Bachelor" Specialty=" Programmer Engineer" Year="1900" />
+  <Worker idCode="2" Name=" Petrov P.P." Education=" Master" Specialty=" Team Lead" Year="1950" />
+  <Worker idCode="3" Name=" Sidorov S.S." Education=" Super Master" Specialty=" Software Architect" Year="1990" />
+  <Worker idCode="4" Name=" Johnson J.J." Education=" Super Bachelor" Specialty=" HTML-coder" Year="1997" />
+  <Worker idCode="5" Name=" Nicolson J.J." Education=" Bachelor" Specialty=" DevOps engineer" Year="1992" />
+</Workers>

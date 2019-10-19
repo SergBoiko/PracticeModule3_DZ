@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\bin\Debug\PracticeXML_ConsoleApp.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\bin\Debug\PracticeXML_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\bin\Debug\PracticeXML_ConsoleApp.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\bin\Debug\PracticeXML_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\bin\Debug\PracticeXML_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\obj\Debug\PracticeXML_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\obj\Debug\PracticeXML_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\obj\Debug\PracticeXML_ConsoleApp.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\obj\Debug\PracticeXML_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\PracticeXML_ConsoleApp\PracticeXML_ConsoleApp\obj\Debug\PracticeXML_ConsoleApp.pdb

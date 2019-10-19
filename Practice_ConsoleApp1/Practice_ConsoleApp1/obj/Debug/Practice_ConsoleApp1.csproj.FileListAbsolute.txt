@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\bin\Debug\Practice_ConsoleApp1.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\bin\Debug\Practice_ConsoleApp1.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\bin\Debug\Practice_ConsoleApp1.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\bin\Debug\Practice_ClassLibrary1.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\bin\Debug\Practice_ClassLibrary1.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\obj\Debug\Practice_ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\obj\Debug\Practice_ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\obj\Debug\Practice_ConsoleApp1.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\obj\Debug\Practice_ConsoleApp1.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Practice_ConsoleApp1\Practice_ConsoleApp1\obj\Debug\Practice_ConsoleApp1.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Salaries>
+  <Salary idCode="1" Salary1="23550" Salary2="26580" />
+  <Salary idCode="2" Salary1="26800" Salary2="28390" />
+  <Salary idCode="3" Salary1="24660" Salary2="27777" />
+  <Salary idCode="4" Salary1="35880" Salary2="44444" />
+  <Salary idCode="5" Salary1="55555" Salary2="39938" />
+</Salaries>

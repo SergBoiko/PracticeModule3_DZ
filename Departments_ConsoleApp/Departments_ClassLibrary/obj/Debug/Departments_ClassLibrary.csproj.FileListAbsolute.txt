@@ -1,0 +1,6 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Departments_ConsoleApp\Departments_ClassLibrary\bin\Debug\Departments_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Departments_ConsoleApp\Departments_ClassLibrary\bin\Debug\Departments_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Departments_ConsoleApp\Departments_ClassLibrary\obj\Debug\Departments_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Departments_ConsoleApp\Departments_ClassLibrary\obj\Debug\Departments_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Departments_ConsoleApp\Departments_ClassLibrary\obj\Debug\Departments_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\Занятие 21\Departments_ConsoleApp\Departments_ClassLibrary\obj\Debug\Departments_ClassLibrary.pdb
